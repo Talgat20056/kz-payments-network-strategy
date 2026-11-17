@@ -27,3 +27,7 @@
 ## Phase 6 — Repo (done 2026-11-18)
 - `git init` (branch main, repo-local author config), `.gitignore`, consulting-structure `README.md`, `requirements.txt`; single commit `feat: KZ payments network strategy analysis`. Not pushed.
 - Resume: all phases complete. To refresh with a new NBK release: rerun the 'How to reproduce' block in README.
+
+## Post-review clean-up (2026-11-18)
+- `outputs/interview_defense.md` renamed to `outputs/limitations_and_challenges.md` (neutral wording).
+- Added disclaimer (independent, public data, not affiliated, not investment advice) to README, findings, storyline and deck slide 1; deck file metadata set (author Talgat20056).

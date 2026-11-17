@@ -2,6 +2,8 @@
 
 A hypothesis-driven analysis of Kazakhstan's card market, built entirely from public data (National Bank of Kazakhstan monthly payment-card releases, Kaspi.kz Form 20-F filings, and stat.gov.kz population figures). Every number carries a source URL, a table reference and an as-of date. Derived numbers are tagged **[calc]** and assumption-dependent numbers **[estimate]**.
 
+> **Disclaimer.** Independent portfolio analysis using only public data. Not affiliated with, commissioned or endorsed by Visa, Mastercard, Kaspi.kz or the National Bank of Kazakhstan. Not investment advice. Built with AI-assisted coding (Claude Code).
+
 ## Question
 > Where should an international card network (Visa / Mastercard) invest in Kazakhstan in 2027–2029 to grow, given Kaspi.kz's closed-loop dominance?
 
@@ -16,7 +18,7 @@ A hypothesis-driven analysis of Kazakhstan's card market, built entirely from pu
 | H2 Defensible niches (cross-border, CNP, credit) | Partially confirmed: cross-border yes, credit no |
 | H3 Kaspi captures a *growing* share of domestic value | Killed as stated (level confirmed, growth not) |
 
-Full write-up: [`outputs/findings.md`](outputs/findings.md) · Deck: [`outputs/kz_payments_strategy.pptx`](outputs/kz_payments_strategy.pptx) (rendered slides in `outputs/render/`) · Storyline: [`outputs/storyline.md`](outputs/storyline.md) · Interview defence: [`outputs/interview_defense.md`](outputs/interview_defense.md)
+Full write-up: [`outputs/findings.md`](outputs/findings.md) · Deck: [`outputs/kz_payments_strategy.pptx`](outputs/kz_payments_strategy.pptx) (rendered slides in `outputs/render/`) · Storyline: [`outputs/storyline.md`](outputs/storyline.md) · Limitations & challenges: [`outputs/limitations_and_challenges.md`](outputs/limitations_and_challenges.md)
 
 ## Data & provenance
 | Source | What | Coverage | Clean file |

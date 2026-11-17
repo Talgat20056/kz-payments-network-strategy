@@ -7,6 +7,8 @@ Pyramid: **Answer (slide 1)** → three supporting arguments, each a block of sl
 
 These lead into the **recommendations (slide 10)**.
 
+> **Disclaimer.** Independent portfolio analysis using only public data. Not affiliated with, commissioned or endorsed by Visa, Mastercard, Kaspi.kz or the National Bank of Kazakhstan. Not investment advice. (Shown on slide 1.)
+
 Source keys (full URL · table · as-of) are listed in `outputs/findings.md`. NBK-277 = release as of 2026-10-01; NBK-268 = as of 2026-01-01 (FY2024–25); K25 = Kaspi 20-F FY2025. [calc] = derived; [estimate] = assumption-dependent.
 
 ---

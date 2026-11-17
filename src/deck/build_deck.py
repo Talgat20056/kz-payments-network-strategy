@@ -28,6 +28,10 @@ LIGHTBG = RGBColor(0xF3, 0xF5, 0xF8)
 FONT = "Arial"
 W, H = Inches(13.333), Inches(7.5)
 MX = Inches(0.5)
+DISCLAIMER = ("Independent portfolio analysis using only public data. Not affiliated with, commissioned or endorsed by "
+              "Visa, Mastercard, Kaspi.kz or the National Bank of Kazakhstan. Not investment advice.")
+DOC_TITLE = "Kazakhstan payments: where should an international card network invest in 2027-2029?"
+DOC_AUTHOR = "Talgat20056"
 
 
 # ---------------- parse storyline ----------------
@@ -169,6 +173,9 @@ def exec_slide(prs, s, page, total):
         textbox(slide, MX + Inches(4.7), y + Inches(0.08), W - 2 * MX - Inches(4.85), rowh - Inches(0.3), [rest], size,
                 bullet=False, anchor=MSO_ANCHOR.MIDDLE)
         y += rowh + Inches(0.05)
+    tb = textbox(slide, MX, Inches(6.4), W - 2 * MX, Inches(0.3), [DISCLAIMER], 9, color=GREY, bullet=False)
+    for r in tb.text_frame.paragraphs[0].runs:
+        r.font.italic = True
     return slide
 
 
@@ -209,6 +216,9 @@ def main():
         assert len(s["title"].split()) <= 15, (s["num"], s["title"])
     prs = Presentation()
     prs.slide_width, prs.slide_height = W, H
+    cp = prs.core_properties
+    cp.title, cp.author, cp.last_modified_by = DOC_TITLE, DOC_AUTHOR, DOC_AUTHOR
+    cp.subject, cp.keywords, cp.comments = "Independent portfolio analysis (public data)", "", DISCLAIMER
     total = len(slides) + len(backups)
     for i, s in enumerate(slides, start=1):
         if s["table"]:
