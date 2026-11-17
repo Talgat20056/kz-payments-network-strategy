@@ -1,0 +1,4 @@
+case,dpp,alpha,conv,new_active_k,activation_value_trn,conversion_value_trn,uplift_pct
+low,2,0.15,0.05,1138.398,0.343,0.919,2.552
+base,5,0.25,0.1,2845.995,1.431,1.837,6.609
+high,10,0.4,0.2,5691.99,4.578,3.674,16.69

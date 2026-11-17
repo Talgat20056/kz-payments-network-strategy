@@ -1,0 +1,75 @@
+metric,period,value,unit,source_doc,source_url,pdf_page,printed_page,as_of_date,quote,label
+tpv,FY2023,28406,KZT bn,Kaspi.kz Form 20-F FY2025,https://ir.kaspi.kz/media/Form_20-F_2025.pdf,92,91,2023-12-31,"TPV(1) ........................................................ 28,406 37,229 44,219",data
+tpv,FY2024,37229,KZT bn,Kaspi.kz Form 20-F FY2025,https://ir.kaspi.kz/media/Form_20-F_2025.pdf,92,91,2024-12-31,"TPV(1) ........................................................ 28,406 37,229 44,219",data
+tpv,FY2025,44219,KZT bn,Kaspi.kz Form 20-F FY2025,https://ir.kaspi.kz/media/Form_20-F_2025.pdf,92,91,2025-12-31,"TPV(1) ........................................................ 28,406 37,229 44,219",data
+tpv_incl_hepsiburada,FY2025,46350,KZT bn,Kaspi.kz Form 20-F FY2025,https://ir.kaspi.kz/media/Form_20-F_2025.pdf,92,91,2025-12-31,"TPV including Hepsiburada(1) ................... 28,406 37,229 46,350",data
+payments_active_consumers,FY2023,12.9,mln,Kaspi.kz Form 20-F FY2025,https://ir.kaspi.kz/media/Form_20-F_2025.pdf,92,91,2023-12-31,"Payments Active Consumers, millions(2) ... 12.9 13.6 14.6",data
+payments_active_consumers,FY2024,13.6,mln,Kaspi.kz Form 20-F FY2025,https://ir.kaspi.kz/media/Form_20-F_2025.pdf,92,91,2024-12-31,"Payments Active Consumers, millions(2) ... 12.9 13.6 14.6",data
+payments_active_consumers,FY2025,14.6,mln,Kaspi.kz Form 20-F FY2025,https://ir.kaspi.kz/media/Form_20-F_2025.pdf,92,91,2025-12-31,"Payments Active Consumers, millions(2) ... 12.9 13.6 14.6",data
+tpv_transactions,FY2023,4219,mln,Kaspi.kz Form 20-F FY2025,https://ir.kaspi.kz/media/Form_20-F_2025.pdf,92,91,2023-12-31,"TPV Payments Transactions, millions(3) .... 4,219 5,890 6,724",data
+tpv_transactions,FY2024,5890,mln,Kaspi.kz Form 20-F FY2025,https://ir.kaspi.kz/media/Form_20-F_2025.pdf,92,91,2024-12-31,"TPV Payments Transactions, millions(3) .... 4,219 5,890 6,724",data
+tpv_transactions,FY2025,6724,mln,Kaspi.kz Form 20-F FY2025,https://ir.kaspi.kz/media/Form_20-F_2025.pdf,92,91,2025-12-31,"TPV Payments Transactions, millions(3) .... 4,219 5,890 6,724",data
+payments_take_rate,FY2023,1.23,%,Kaspi.kz Form 20-F FY2025,https://ir.kaspi.kz/media/Form_20-F_2025.pdf,92,91,2023-12-31,Payments Take Rate(4) .............................. 1.23 % 1.18 % 1.10%,data
+payments_take_rate,FY2024,1.18,%,Kaspi.kz Form 20-F FY2025,https://ir.kaspi.kz/media/Form_20-F_2025.pdf,92,91,2024-12-31,Payments Take Rate(4) .............................. 1.23 % 1.18 % 1.10%,data
+payments_take_rate,FY2025,1.1,%,Kaspi.kz Form 20-F FY2025,https://ir.kaspi.kz/media/Form_20-F_2025.pdf,92,91,2025-12-31,Payments Take Rate(4) .............................. 1.23 % 1.18 % 1.10%,data
+avg_current_account_balances,FY2025,981,KZT bn,Kaspi.kz Form 20-F FY2025,https://ir.kaspi.kz/media/Form_20-F_2025.pdf,92,91,2025-12-31,Average Balances on Current Accounts(5) . 769 938 981,data
+tpv_mix_p2p,FY2025,8,% of TPV,Kaspi.kz Form 20-F FY2025,https://ir.kaspi.kz/media/Form_20-F_2025.pdf,92,91,2025-12-31,P2P transactions accounted for 8% of our TPV,data
+tpv_mix_household_bills,FY2025,16,% of TPV,Kaspi.kz Form 20-F FY2025,https://ir.kaspi.kz/media/Form_20-F_2025.pdf,92,91,2025-12-31,"accounted for 16%, 69% and 7% of TPV",data
+tpv_mix_qr_and_card,FY2025,69,% of TPV,Kaspi.kz Form 20-F FY2025,https://ir.kaspi.kz/media/Form_20-F_2025.pdf,92,91,2025-12-31,"accounted for 16%, 69% and 7% of TPV",data
+tpv_mix_b2b,FY2025,7,% of TPV,Kaspi.kz Form 20-F FY2025,https://ir.kaspi.kz/media/Form_20-F_2025.pdf,92,91,2025-12-31,"accounted for 16%, 69% and 7% of TPV",data
+b2b_tpv,FY2025,2833,KZT bn,Kaspi.kz Form 20-F FY2025,https://ir.kaspi.kz/media/Form_20-F_2025.pdf,92,91,2025-12-31,"Payments’ TPV was ₸2,833 billion for the year ended December 31, 2025",data
+b2b_transactions,FY2025,79.7,mln,Kaspi.kz Form 20-F FY2025,https://ir.kaspi.kz/media/Form_20-F_2025.pdf,92,91,2025-12-31,number of Kaspi B2B Payments’ transactions was 79.7 million,data
+average_mau,FY2025,15.7,mln,Kaspi.kz Form 20-F FY2025,https://ir.kaspi.kz/media/Form_20-F_2025.pdf,51,50,2025-12-31,the Kaspi.kz Super App in Kazakhstan had approximately 15.7 million Average MAU,data
+active_merchants,FY2025,764,thousand,Kaspi.kz Form 20-F FY2025,https://ir.kaspi.kz/media/Form_20-F_2025.pdf,51,50,2025-12-31,"Kaspi Pay Super App had approximately 764,000 Active Merchants",data
+payments_segment_revenue,FY2025,658726,KZT mln,Kaspi.kz Form 20-F FY2025,https://ir.kaspi.kz/media/Form_20-F_2025.pdf,104,103,2025-12-31,"Total segment revenue of Payments increased by 12% to ₸658,726 million",data
+payments_segment_revenue,FY2024,587097,KZT mln,Kaspi.kz Form 20-F FY2025,https://ir.kaspi.kz/media/Form_20-F_2025.pdf,104,103,2024-12-31,"from ₸587,097 million for the year ended December 31, 2024",data
+payments_fee_revenue,FY2025,510763,KZT mln,Kaspi.kz Form 20-F FY2025,https://ir.kaspi.kz/media/Form_20-F_2025.pdf,104,103,2025-12-31,"to ₸510,763 million for the",data
+payments_fee_revenue,FY2024,458953,KZT mln,Kaspi.kz Form 20-F FY2025,https://ir.kaspi.kz/media/Form_20-F_2025.pdf,104,103,2024-12-31,"from ₸458,953 million for the year ended December 31, 2024",data
+incr_revenue_qr_and_card,FY2025,35038,KZT mln (YoY increase),Kaspi.kz Form 20-F FY2025,https://ir.kaspi.kz/media/Form_20-F_2025.pdf,104,103,2025-12-31,"mainly attributable to a ₸35,038 million increase in revenue from Kaspi QR and card transactions",data
+payments_net_income,FY2025,433001,KZT mln,Kaspi.kz Form 20-F FY2025,https://ir.kaspi.kz/media/Form_20-F_2025.pdf,105,104,2025-12-31,"Net income of Payments increased by 13% to ₸433,001 million",data
+receivables_from_visa_mastercard,FY2025,7674,KZT mln,Kaspi.kz Form 20-F FY2025,https://ir.kaspi.kz/media/Form_20-F_2025.pdf,202,F-48,2025-12-31,"Receivables from VISA and Master Card 2,782 7,674",data
+receivables_from_visa_mastercard,FY2024,2782,KZT mln,Kaspi.kz Form 20-F FY2025,https://ir.kaspi.kz/media/Form_20-F_2025.pdf,202,F-48,2024-12-31,"Receivables from VISA and Master Card 2,782 7,674",data
+kzt_per_usd_convenience_rate,FY2025,505.53,KZT per USD (31 Dec 2025),Kaspi.kz Form 20-F FY2025,https://ir.kaspi.kz/media/Form_20-F_2025.pdf,8,7,2025-12-31,₸505.53 per $1 as of,data
+kaspi_qr_partner_banks_local,FY2025,7,banks,Kaspi.kz Form 20-F FY2025,https://ir.kaspi.kz/media/Form_20-F_2025.pdf,58,57,2025-12-31,we have integrated Kaspi Pay QR with 7 local banks,data
+tpv_mix_p2p,FY2024,7,% of TPV,Kaspi.kz Form 20-F FY2024,https://ir.kaspi.kz/media/Form_20-F_2024.pdf,92,89,2024-12-31,P2P transactions accounted for 7% of our TPV,data
+tpv_mix_household_bills,FY2024,17,% of TPV,Kaspi.kz Form 20-F FY2024,https://ir.kaspi.kz/media/Form_20-F_2024.pdf,92,89,2024-12-31,"accounted for 17%, 71% and",data
+tpv_mix_qr_and_card,FY2024,71,% of TPV,Kaspi.kz Form 20-F FY2024,https://ir.kaspi.kz/media/Form_20-F_2024.pdf,92,89,2024-12-31,"accounted for 17%, 71% and",data
+tpv_mix_b2b,FY2024,5,% of TPV,Kaspi.kz Form 20-F FY2024,https://ir.kaspi.kz/media/Form_20-F_2024.pdf,92,89,2024-12-31,"5% of TPV, respectively",data
+b2b_tpv,FY2024,1951,KZT bn,Kaspi.kz Form 20-F FY2024,https://ir.kaspi.kz/media/Form_20-F_2024.pdf,92,89,2024-12-31,"Our Kaspi B2B Payments’ TPV was ₸1,951 billion",data
+average_mau,FY2024,14.7,mln,Kaspi.kz Form 20-F FY2024,https://ir.kaspi.kz/media/Form_20-F_2024.pdf,56,53,2024-12-31,the Kaspi.kz Super App had approximately 14.7 million Average MAU,data
+active_merchants,FY2024,737,thousand,Kaspi.kz Form 20-F FY2024,https://ir.kaspi.kz/media/Form_20-F_2024.pdf,56,53,2024-12-31,"Pay Super App had approximately 737,000 Active Merchants",data
+payments_fee_revenue,FY2023,368925,KZT mln,Kaspi.kz Form 20-F FY2024,https://ir.kaspi.kz/media/Form_20-F_2024.pdf,105,102,2023-12-31,"from ₸368,925 million for the year ended December 31, 2023",data
+incr_revenue_qr_and_card,FY2024,63820,KZT mln (YoY increase),Kaspi.kz Form 20-F FY2024,https://ir.kaspi.kz/media/Form_20-F_2024.pdf,105,102,2024-12-31,"a ₸63,820 million increase in revenue from Kaspi QR and card",data
+tpv,FY2021,12935,KZT bn,Kaspi.kz Form 20-F FY2023,https://ir.kaspi.kz/media/Form_20-F_2023.pdf,96,,2021-12-31,"TPV(1) ............................................................. 12,935 19,913 28,406",data
+tpv,FY2022,19913,KZT bn,Kaspi.kz Form 20-F FY2023,https://ir.kaspi.kz/media/Form_20-F_2023.pdf,96,,2022-12-31,"TPV(1) ............................................................. 12,935 19,913 28,406",data
+payments_active_consumers,FY2021,9.7,mln,Kaspi.kz Form 20-F FY2023,https://ir.kaspi.kz/media/Form_20-F_2023.pdf,96,,2021-12-31,"Payments Active Consumers, millions(2) ............ 9.7 11.3 12.9",data
+payments_active_consumers,FY2022,11.3,mln,Kaspi.kz Form 20-F FY2023,https://ir.kaspi.kz/media/Form_20-F_2023.pdf,96,,2022-12-31,"Payments Active Consumers, millions(2) ............ 9.7 11.3 12.9",data
+tpv_transactions,FY2021,1990,mln,Kaspi.kz Form 20-F FY2023,https://ir.kaspi.kz/media/Form_20-F_2023.pdf,96,,2021-12-31,"TPV Payments Transactions, millions(3) ............. 1,990 3,060 4,219",data
+tpv_transactions,FY2022,3060,mln,Kaspi.kz Form 20-F FY2023,https://ir.kaspi.kz/media/Form_20-F_2023.pdf,96,,2022-12-31,"TPV Payments Transactions, millions(3) ............. 1,990 3,060 4,219",data
+tpv_mix_p2p,FY2023,7,% of TPV,Kaspi.kz Form 20-F FY2023,https://ir.kaspi.kz/media/Form_20-F_2023.pdf,96,,2023-12-31,P2P transactions accounted for 7% of our TPV,data
+tpv_mix_household_bills,FY2023,18,% of TPV,Kaspi.kz Form 20-F FY2023,https://ir.kaspi.kz/media/Form_20-F_2023.pdf,96,,2023-12-31,"accounted for 18%, 71% and 4% of TPV",data
+tpv_mix_qr_and_card,FY2023,71,% of TPV,Kaspi.kz Form 20-F FY2023,https://ir.kaspi.kz/media/Form_20-F_2023.pdf,96,,2023-12-31,"accounted for 18%, 71% and 4% of TPV",data
+tpv_mix_b2b,FY2023,4,% of TPV,Kaspi.kz Form 20-F FY2023,https://ir.kaspi.kz/media/Form_20-F_2023.pdf,96,,2023-12-31,"accounted for 18%, 71% and 4% of TPV",data
+b2b_tpv,FY2023,1081,KZT bn,Kaspi.kz Form 20-F FY2023,https://ir.kaspi.kz/media/Form_20-F_2023.pdf,96,,2023-12-31,"Payments’ TPV was ₸1,081 billion for the year ended December 31, 2023",data
+average_mau,FY2023,14.0,mln,Kaspi.kz Form 20-F FY2023,https://ir.kaspi.kz/media/Form_20-F_2023.pdf,52,,2023-12-31,the Kaspi.kz Super App had approximately 14.0 million Average MAU,data
+active_merchants,FY2023,581,thousand,Kaspi.kz Form 20-F FY2023,https://ir.kaspi.kz/media/Form_20-F_2023.pdf,52,,2023-12-31,"Super App had approximately 581,000 Active Merchants",data
+incr_revenue_qr_and_card,FY2023,71430,KZT mln (YoY increase),Kaspi.kz Form 20-F FY2023,https://ir.kaspi.kz/media/Form_20-F_2023.pdf,108,,2023-12-31,"a ₸71,430 million increase in revenue from Kaspi QR and card",data
+qr_eliminates_interchange,FY2025,,qualitative,Kaspi.kz Form 20-F FY2025,https://ir.kaspi.kz/media/Form_20-F_2025.pdf,105,104,2025-12-31,"continuing adoption of proprietary QR transactions, which eliminates interchange fees paid to",qualitative
+qr_eliminates_interchange,FY2024,,qualitative,Kaspi.kz Form 20-F FY2024,https://ir.kaspi.kz/media/Form_20-F_2024.pdf,105,102,2024-12-31,"continuing adoption of proprietary QR transactions, which eliminates",qualitative
+qr_eliminates_interchange,FY2023,,qualitative,Kaspi.kz Form 20-F FY2023,https://ir.kaspi.kz/media/Form_20-F_2023.pdf,109,,2023-12-31,"continuing adoption of proprietary QR transactions, which eliminates interchange fees paid to",qualitative
+alipay_plus_integration,FY2025,,qualitative,Kaspi.kz Form 20-F FY2025,https://ir.kaspi.kz/media/Form_20-F_2025.pdf,53,52,2025-12-31,In Kazakhstan Kaspi QR is directly integrated with other local banks and internationally with AliPay+,qualitative
+other_cards_low_volume,FY2025,,qualitative,Kaspi.kz Form 20-F FY2025,https://ir.kaspi.kz/media/Form_20-F_2025.pdf,91,90,2025-12-31,"we also accept other cards besides Kaspi Gold in our POS; however, such transaction volumes are significantly lower than",qualitative
+visa_mc_agent_net_revenue,FY2025,,qualitative,Kaspi.kz Form 20-F FY2025,https://ir.kaspi.kz/media/Form_20-F_2025.pdf,181,F-27,2025-12-31,"When using third-party payments platforms or networks (e.g., Visa/Mastercard), the Group is an agent",qualitative
+tpv_definition,FY2025,,qualitative,Kaspi.kz Form 20-F FY2025,https://ir.kaspi.kz/media/Form_20-F_2025.pdf,8,7,2025-12-31,"by Active Consumers within our Payments Platform, excluding free P2P and QR payments;",qualitative
+alaqan_palm_launch,FY2025,,qualitative,Kaspi.kz Form 20-F FY2025,https://ir.kaspi.kz/media/Form_20-F_2025.pdf,53,52,2025-12-31,"In December 2025 we launched Kaspi Alaqan, a pay-by-palm service.",qualitative
+significant_psp_register,FY2025,,qualitative,Kaspi.kz Form 20-F FY2025,https://ir.kaspi.kz/media/Form_20-F_2025.pdf,66,65,2025-12-31,"Kaspi Bank was included in the Register of Significant Payment Services Providers as of May 1, 2018",qualitative
+significant_psp_25pct_threshold,FY2025,,qualitative,Kaspi.kz Form 20-F FY2025,https://ir.kaspi.kz/media/Form_20-F_2025.pdf,66,65,2025-12-31,processes transactions using payment cards in the amount of at least 25% of the total volume of,qualitative
+tpv_qr_and_card,FY2025,30511,KZT bn,[calc] tpv x tpv_mix_qr_and_card,,,,2025-12-31,"[calc] 44,219 x (69+0.0)% ; mix rounded to whole % in source",calc
+tpv_qr_and_card_low,FY2025,30290,KZT bn,[calc] tpv x tpv_mix_qr_and_card,,,,2025-12-31,"[calc] 44,219 x (69-0.5)% ; mix rounded to whole % in source",calc
+tpv_qr_and_card_high,FY2025,30732,KZT bn,[calc] tpv x tpv_mix_qr_and_card,,,,2025-12-31,"[calc] 44,219 x (69+0.5)% ; mix rounded to whole % in source",calc
+tpv_qr_and_card,FY2024,26433,KZT bn,[calc] tpv x tpv_mix_qr_and_card,,,,2024-12-31,"[calc] 37,229 x (71+0.0)% ; mix rounded to whole % in source",calc
+tpv_qr_and_card_low,FY2024,26246,KZT bn,[calc] tpv x tpv_mix_qr_and_card,,,,2024-12-31,"[calc] 37,229 x (71-0.5)% ; mix rounded to whole % in source",calc
+tpv_qr_and_card_high,FY2024,26619,KZT bn,[calc] tpv x tpv_mix_qr_and_card,,,,2024-12-31,"[calc] 37,229 x (71+0.5)% ; mix rounded to whole % in source",calc
+tpv_qr_and_card,FY2023,20168,KZT bn,[calc] tpv x tpv_mix_qr_and_card,,,,2023-12-31,"[calc] 28,406 x (71+0.0)% ; mix rounded to whole % in source",calc
+tpv_qr_and_card_low,FY2023,20026,KZT bn,[calc] tpv x tpv_mix_qr_and_card,,,,2023-12-31,"[calc] 28,406 x (71-0.5)% ; mix rounded to whole % in source",calc
+tpv_qr_and_card_high,FY2023,20310,KZT bn,[calc] tpv x tpv_mix_qr_and_card,,,,2023-12-31,"[calc] 28,406 x (71+0.5)% ; mix rounded to whole % in source",calc
